@@ -1,5 +1,4 @@
 package,Version,Status
-@types/jquery,1.0,Active
 02-echo,0.0.7,Active
 @accordproject/concerto-analysis,3.24.1,Active
 @accordproject/concerto-linter,3.24.1,Active
@@ -1013,4 +1012,5 @@ zuper-stream,2.0.9,Inactive
 ,,
 ,,
 ,,
+
 
